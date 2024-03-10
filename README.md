@@ -9,16 +9,12 @@ Este sitio fue creado como parte de mi proyecto de portafolio para presentar mis
 ## Estructura del Repositorio
 
 - `index.html`: Página principal del CV/portafolio.
-- `/css`: Contiene los archivos de estilos CSS.
-- `/js`: Contiene los archivos JavaScript (si los hay).
-- `/img`: Directorio de imágenes utilizadas en el sitio.
+
 
 ## Tecnologías Utilizadas
 
 - HTML
 - CSS
-- JavaScript (opcional)
-- Cualquier otra tecnología o biblioteca que hayas utilizado
 
 ---
 
